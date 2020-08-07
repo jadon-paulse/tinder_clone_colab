@@ -1,3 +1,5 @@
+//Creates image with attributes
+
 public class ImageBuilder {
     private String url;
     private String title;

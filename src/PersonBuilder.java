@@ -1,3 +1,5 @@
+//Creates a person with attributes
+
 public class PersonBuilder {
     private String name;
     private int age;
